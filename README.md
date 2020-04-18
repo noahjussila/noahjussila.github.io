@@ -12,3 +12,5 @@
 ### Coursework 
 
 ### Skills
+
+### Honors and Awards
