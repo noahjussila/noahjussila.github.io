@@ -1,13 +1,11 @@
 
-# Noah Jussila
-
 ## About Me
 
 ## CV
 
 ### Education
 
-### Research Exerpiance
+### Research Experiance
 
 ### Coursework 
 
